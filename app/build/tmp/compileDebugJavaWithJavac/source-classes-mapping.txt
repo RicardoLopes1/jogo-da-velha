@@ -1,0 +1,2 @@
+com/rlopes/jogodavelha/BuildConfig.java
+ com.rlopes.jogodavelha.BuildConfig
