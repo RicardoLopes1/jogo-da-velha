@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jogo da Velha</string>
+    <string name="your_turn_player_init">Your turn: Player X</string>
+</resources>

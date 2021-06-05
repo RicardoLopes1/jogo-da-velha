@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/rlopes/Documentos/10_Semestre/des-movel/ASProjects/jogo-da-velha/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/home/rlopes/Documentos/10_Semestre/des-movel/ASProjects/JogodaVelha/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
                     "source": "/home/rlopes/.gradle/caches/transforms-2/files-2.1/0d80f964913337fe2b36ee89bef68454/cardview-1.0.0/res/values-v23/values-v23.xml",

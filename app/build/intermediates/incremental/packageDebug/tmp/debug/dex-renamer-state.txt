@@ -1,4 +1,10 @@
-#Thu Jun 03 23:37:34 BRT 2021
-base.0=/home/rlopes/Documentos/10_Semestre/des-movel/ASProjects/jogo-da-velha/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Fri Jun 04 22:15:32 BRT 2021
+base.2=/home/rlopes/Documentos/10_Semestre/des-movel/ASProjects/JogodaVelha/app/build/intermediates/dex/debug/mergeProjectDexDebug/9/classes.dex
+path.2=9/classes.dex
+base.1=/home/rlopes/Documentos/10_Semestre/des-movel/ASProjects/JogodaVelha/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+path.1=0/classes.dex
+base.0=/home/rlopes/Documentos/10_Semestre/des-movel/ASProjects/JogodaVelha/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex

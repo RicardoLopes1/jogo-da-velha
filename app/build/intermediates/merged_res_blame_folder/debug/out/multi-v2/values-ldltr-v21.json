@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/rlopes/Documentos/10_Semestre/des-movel/ASProjects/jogo-da-velha/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "/home/rlopes/Documentos/10_Semestre/des-movel/ASProjects/JogodaVelha/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
                     "source": "/home/rlopes/.gradle/caches/transforms-2/files-2.1/f0733dd2008665c8f53633b597920549/appcompat-1.3.0/res/values-ldltr-v21/values-ldltr-v21.xml",
